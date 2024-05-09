@@ -53,7 +53,7 @@ python run.py
 > Buka Tiktok Website, Lalu Inspect Komen, Cari Id Komennya
 
 ### Proxy :
-> [!TIPS]
+> [!TIP]
 > Buka website Geonode proxy
 
 <h2 align="center">COPYRIGHT ©2024 Fami</h2>
