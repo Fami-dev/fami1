@@ -1,4 +1,4 @@
-<h1align="center">Auto Bot Fami</h1>
+<h1 align="center">Auto Bot Fami</h1>
 
 ----
 
