@@ -28,7 +28,7 @@ git clone https://github.com/FamiFema/fami1
 cd fami1
 ```
 ```
-pip2 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ```
 nano config.json
